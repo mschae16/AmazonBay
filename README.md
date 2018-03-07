@@ -15,9 +15,9 @@ Run `node server.js` to start the server and navigate to localhost:3000 to view 
 Run `npm test` to run the test suite.
 
 ## Images
-![Landing Page](https://github.com/mollyfoz/swapi-box/blob/master/public/screenshots/Screen%20Shot%202017-09-27%20at%201.43.15%20PM.png)
+![Landing Page]()
 
-![Order History and Shopping Cart](https://github.com/mollyfoz/swapi-box/blob/master/public/screenshots/Screen%20Shot%202017-09-27%20at%201.44.06%20PM.png)
+![Order History and Shopping Cart]()
 
 #### Author
 
