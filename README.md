@@ -15,9 +15,9 @@ Run `node server.js` to start the server and navigate to localhost:3000 to view 
 Run `npm test` to run the test suite.
 
 ## Images
-![Landing Page]()
+![Landing Page](landing-page.png)
 
-![Order History and Shopping Cart]()
+![Order History and Shopping Cart](order-history.png)
 
 #### Author
 
